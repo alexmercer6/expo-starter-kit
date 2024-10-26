@@ -1,3 +1,9 @@
+## FORKED AND MODIFIED
+- Using react native firebase for authentication. google-services.json file will be required for android and GoogleService-Info.plist file will be required for ios.
+- Initial set up with supabase is implemented but not tested. Planned to use supabase for both db and auth but ran into issues with auth. May change later
+- A gotcha from initial repo with keyboard covering inputs requires platform specific rendering options
+- Will probably strip more out as I find things I wont need
+
 <p align="center">
     <img alt="React Native Template Obytes" src="https://github.com/obytes/react-native-template-obytes/assets/11137944/a8163d23-897a-4efe-91ce-b9bf7348c18f" width="200" />
 </p>
