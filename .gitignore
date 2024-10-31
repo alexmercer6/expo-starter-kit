@@ -17,7 +17,7 @@ yarn-error.log
 android
 ios
 google-services.json
-GoogleServices-Info.plist
+GoogleService-Info.plist
 # macOS
 .DS_Store
 
